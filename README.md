@@ -5,4 +5,4 @@ This Android app:
 
 - streams video from Raspberry Pi using http protocol
 - View it on a split screen for virtual reality
-- Sends the Pitch and Yaw data to a Firebase realtime database
+- Sends the Pitch and Yaw data of the head movement to a Firebase realtime database
